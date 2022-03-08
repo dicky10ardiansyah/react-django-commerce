@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "django react commerce"
+git branch -M main
+git remote add origin https://github.com/dicky10ardiansyah/react-django-commerce.git
+git push -u origin main
